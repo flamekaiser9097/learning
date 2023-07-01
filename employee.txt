@@ -1,0 +1,3 @@
+Name: sanjay kumar mundari
+Department: Information Technology
+Salary: 60,000
